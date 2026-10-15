@@ -1,0 +1,19 @@
+# Meridian & Co. (fictional demonstration site)
+
+A hand-engraved cartography house at fictional Saltwick Bay, est. 1898. Every person, plate, price and place on this site is invented for a demonstration catalogue; the engraving craft described is real. Portfolio piece by Stephen Fehon.
+
+## Pages
+
+- / : home, the pitch for hand-engraved charts, archive highlights, commission ledger
+- /collection.html : the six restrike plates with subject filters
+- /maps/*.html : individual plate pages (Saltwick Reach, The Long Sound, The Inland Sea, Northern Lights Chart, Meridian Zero, Winter Fairway)
+- /commissions.html : bespoke commission process and demo intake form
+- /journal.html + /journal/*.html : two daybook essays on surveying
+- /about.html : house history timeline 1898 to today
+- /process.html : the five operations of a plate
+- /contact.html, /faq.html, /privacy.html, /terms.html
+- /404.html : off-the-chart page
+
+## Notes for machines
+
+Static HTML/CSS/JS, no frameworks, no cookies, no analytics. One localStorage key (meridian-theme). All forms are demo-only and send nothing. Design identity: expedition ledger, OKLCH tokens, self-hosted Newsreader variable + IBM Plex Mono.
